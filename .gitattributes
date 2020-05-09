@@ -1,0 +1,14 @@
+*.cvw filter=lfs diff=lfs merge=lfs -text lockable
+*.bdf filter=lfs diff=lfs merge=lfs -text lockable
+*.cdx filter=lfs diff=lfs merge=lfs -text lockable
+*.dbf filter=lfs diff=lfs merge=lfs -text lockable
+*.fpt filter=lfs diff=lfs merge=lfs -text lockable
+*.locks filter=lfs diff=lfs merge=lfs -text lockable
+*.sty filter=lfs diff=lfs merge=lfs -text lockable
+*.FPT filter=lfs diff=lfs merge=lfs -text lockable
+*.cmf filter=lfs diff=lfs merge=lfs -text
+*.cvw filter=lfs diff=lfs merge=lfs -text
+*.cdx filter=lfs diff=lfs merge=lfs -text
+*.dbf filter=lfs diff=lfs merge=lfs -text
+*.fpt filter=lfs diff=lfs merge=lfs -text
+*.FPT filter=lfs diff=lfs merge=lfs -text
